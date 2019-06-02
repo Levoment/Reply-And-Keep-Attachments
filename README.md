@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/levoment/Reply-And-Keep-Attachments/blob/master/Images/Reply_And_Keep_Attachments_Screenshot.PNG "Reply and Keep Attachments screen capture")
 
-The Add-In tab appears when an e-mail is opened for reading in a new windowv(double click on an e-mail in the list).
+The tab appears when an e-mail is opened for reading in a new window (double click on an e-mail in the list).
 
 # Features:
 
