@@ -1,10 +1,10 @@
 # Reply-And-Keep-Attachments
 
-**Reply and Keep Attachments** is a simple VSTO Outlook Add-In to help keep attachments when replying to an e-mail in Outlook.
+**Reply and Keep Attachments** is a simple VSTO Outlook Add-In that helps keep attachments when replying to an e-mail in Outlook.
 
 ![alt text](https://github.com/levoment/Reply-And-Keep-Attachments/blob/master/Images/Reply_And_Keep_Attachments_Screenshot.PNG "Reply and Keep Attachments screen capture")
 
-The Add-In tab appears when an e-mail is opened for reading in a new windowv(double click on e-mail in the list).
+The Add-In tab appears when an e-mail is opened for reading in a new windowv(double click on an e-mail in the list).
 
 # Features:
 
